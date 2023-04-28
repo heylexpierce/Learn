@@ -1,0 +1,9 @@
+/* 样式应用在 9-1.html */
+#shi-title {
+  font-family: "简宋";
+  font-size: 29px;
+}
+#author {
+  font-weight: bold;
+  color: grey;
+}
